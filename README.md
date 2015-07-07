@@ -16,7 +16,7 @@ An open-source [Workflowy](http://workflowy.com) clone.
 
 You can use our one-click heroku deploy:
 
-[![Deploy](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy)
+[![Deploy](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy?template=https://github.com/abhshkdz/HackFlowy)
 
 Or proceed manually as follow:
 
